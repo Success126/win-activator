@@ -1,4 +1,4 @@
-# Windows-Activator
+# Windows10-Activation BAT
 
 ## Supported Versions.
 - Windows 10 Home.
